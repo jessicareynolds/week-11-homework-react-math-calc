@@ -7,7 +7,7 @@ function App() {
     <div className="app calculator">
 
       <header>
-        React Caculator
+        React Calculator
       </header>
       <Calculator />
 
